@@ -36,9 +36,6 @@
 ⭐️ *Always learning, always building.*
 
 
-⭐️ *“Always learning, always building.”*  
-
-
 <!--
 **vikranth0609/vikranth0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
