@@ -21,7 +21,7 @@
 ---
 
 ## 🎯 Roles & Leadership
-- 📣 **Promotions Head** – Airo and Aether (Sports & Cultural Fest, Mahindra University)  
+- 📣 **Promotions Head** – Airo and Aether 2025 (Sports & Cultural Fest, Mahindra University)  
 - 📸 **Media Club Member** – Photography Club, Mahindra University  
 
 ---
