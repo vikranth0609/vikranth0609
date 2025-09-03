@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies & Tools
 - 💻 **Languages:** C, Java, Python, SQL  
-- 🌐 **Web Development:** HTML, CSS, JavaScript, React, Supabase, Node.js  
+- 🌐 **Web Development:** HTML, CSS, JavaScript,TypeScript,Next.Js, React, Supabase, Node.js  
 - 🗄️ **Databases:** MySQL, MongoDB, Supabase  
 - ⚙️ **Other Tools:** Git, GitHub, VS Code  
 
@@ -15,8 +15,8 @@
 
 ## 📌 Featured Projects
 - 🏨 **Hostel Mangement System** – A software project designed to simplify hostel operations by managing student records, room allocations and built specifically for Mahindra University.  
-- 🧾 **PRTU TS Membership Portal** – Built a secure web and app solution for managing 60,000+ teacher records in Telangana.  
-- 🍴 **GharPasand** – Currently building a web platform for a US-based startup, GharPasand, which delivers authentic Indian home-cooked food in the US.  
+- 🧾 **PRTU TS Membership Portal** – Built a secure web solution for managing 60,000+ Government teacher records across 33 Districts in Telangana.  
+- 🍴 **GharPasand** – Currently building a web platform for a US-based startup - GharPasand, which delivers authentic Indian home-cooked food in the US.  
 
 ---
 
