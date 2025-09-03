@@ -6,7 +6,7 @@ I enjoy building projects that apply theory into practice.
 ---
 
 ## Technologies & Tools
-- **Languages:** C, Python, Java, JavaScript, TypeScript, HTML/CSS
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** Next.Js, React, Node.js  
 - **Databases:** MySQL, MongoDB, Supabase(PostgreSQL)
 - **Libraries:** Pandas, NumPy, Matplotlib 
