@@ -1,35 +1,36 @@
 # Hi there, I'm Om Sai Vikranth 👋
 
-🎓 Fourth-year **B.Tech Computer Science and Engineering** student at **Mahindra University, Hyderabad**.  
-💡 I enjoy building projects that apply theory into practice.  
+Fourth-year **B.Tech Computer Science and Engineering** student at **Mahindra University, Hyderabad**.  
+I enjoy building projects that apply theory into practice.  
 
 ---
 
-## 🔧 Technologies & Tools
-- 💻 **Languages:** C, Java, Python, SQL  
-- 🌐 **Web Development:** HTML, CSS, JavaScript,TypeScript,Next.Js, React, Supabase, Node.js  
-- 🗄️ **Databases:** MySQL, MongoDB, Supabase  
-- ⚙️ **Other Tools:** Git, GitHub, VS Code  
+## Technologies & Tools
+- **Languages:** C, Python, Java, JavaScript, TypeScript, HTML/CSS
+- **Frameworks:** Next.Js, React, Node.js  
+- **Databases:** MySQL, MongoDB, Supabase(PostgreSQL)
+- ** Libraries:** Pandas, NumPy, Matplotlib 
+- **Other Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📌 Featured Projects
-- 🏨 **Hostel Mangement System** – A software project designed to simplify hostel operations by managing student records, room allocations and built specifically for Mahindra University.  
-- 🧾 **PRTU TS Membership Portal** – Built a secure web solution for managing 60,000+ Government teacher records across 33 Districts in Telangana.  
-- 🍴 **GharPasand** – Currently building a web platform for a US-based startup - GharPasand, which delivers authentic Indian home-cooked food in the US.  
+##  Featured Projects
+- **PRTU TS Membership Portal** – Built a secure web solution for managing 60,000+ Government teacher records across 33 Districts in Telangana.  
+- **GharPasand** – Currently building a web platform for a US-based startup - GharPasand, which delivers authentic Indian home-cooked food in the US.
+- **Hostel Mangement System** – A software project designed to simplify hostel operations by managing student records, room allocations and built specifically for Mahindra University.   
 
 ---
 
-## 🎯 Roles & Leadership
-- 📣 **Promotions Head** – Airo and Aether 2025 (Sports & Cultural Fest, Mahindra University)  
-- 📸 **Media Club Member** – Photography Club, Mahindra University  
+##  Roles & Leadership
+-  **Promotions Head** – Airo and Aether 2025 (Sports & Cultural Fest, Mahindra University)  
+-  **Media Club Member** – Photography Club, Mahindra University  
 
 ---
 
-## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/om-sai-vikranth/)  
-- 📧 Email: *omsaivikrantha@gmail.com*  
-- 🎬 Interests: Photography, Filmmaking  
+##  Connect with Me
+-  [LinkedIn](https://www.linkedin.com/in/om-sai-vikranth/)  
+-  Email: *omsaivikrantha@gmail.com*  
+-  Interests: Photography, Filmmaking  
 
 ---
 
